@@ -1,0 +1,7 @@
+C:\Users\nirle\source\repos\TestServer\TestServer\bin\Debug\TestServer.exe.config
+C:\Users\nirle\source\repos\TestServer\TestServer\bin\Debug\TestServer.exe
+C:\Users\nirle\source\repos\TestServer\TestServer\bin\Debug\TestServer.pdb
+C:\Users\nirle\source\repos\TestServer\TestServer\obj\Debug\TestServer.csprojAssemblyReference.cache
+C:\Users\nirle\source\repos\TestServer\TestServer\obj\Debug\TestServer.csproj.CoreCompileInputs.cache
+C:\Users\nirle\source\repos\TestServer\TestServer\obj\Debug\TestServer.exe
+C:\Users\nirle\source\repos\TestServer\TestServer\obj\Debug\TestServer.pdb
