@@ -11,3 +11,16 @@ C:\Users\nirle\source\repos\DragDropTransfare\DragDropTransfare\obj\Debug\DragDr
 C:\Users\nirle\source\repos\DragDropTransfare\DragDropTransfare\bin\Debug\CircularProgressBar.dll
 C:\Users\nirle\source\repos\DragDropTransfare\DragDropTransfare\bin\Debug\WinFormAnimation.dll
 C:\Users\nirle\source\repos\DragDropTransfare\DragDropTransfare\obj\Debug\DragDropTransfare.csproj.CopyComplete
+C:\Users\Vlad Gryaznov\Documents\ClientCode\DragDropTransfare\DragDropTransfare\bin\Debug\DragDropTransfare.exe.config
+C:\Users\Vlad Gryaznov\Documents\ClientCode\DragDropTransfare\DragDropTransfare\bin\Debug\DragDropTransfare.exe
+C:\Users\Vlad Gryaznov\Documents\ClientCode\DragDropTransfare\DragDropTransfare\bin\Debug\DragDropTransfare.pdb
+C:\Users\Vlad Gryaznov\Documents\ClientCode\DragDropTransfare\DragDropTransfare\bin\Debug\CircularProgressBar.dll
+C:\Users\Vlad Gryaznov\Documents\ClientCode\DragDropTransfare\DragDropTransfare\bin\Debug\WinFormAnimation.dll
+C:\Users\Vlad Gryaznov\Documents\ClientCode\DragDropTransfare\DragDropTransfare\obj\Debug\DragDropTransfare.csprojAssemblyReference.cache
+C:\Users\Vlad Gryaznov\Documents\ClientCode\DragDropTransfare\DragDropTransfare\obj\Debug\DragDropTransfare.Form1.resources
+C:\Users\Vlad Gryaznov\Documents\ClientCode\DragDropTransfare\DragDropTransfare\obj\Debug\DragDropTransfare.Properties.Resources.resources
+C:\Users\Vlad Gryaznov\Documents\ClientCode\DragDropTransfare\DragDropTransfare\obj\Debug\DragDropTransfare.csproj.GenerateResource.cache
+C:\Users\Vlad Gryaznov\Documents\ClientCode\DragDropTransfare\DragDropTransfare\obj\Debug\DragDropTransfare.csproj.CoreCompileInputs.cache
+C:\Users\Vlad Gryaznov\Documents\ClientCode\DragDropTransfare\DragDropTransfare\obj\Debug\DragDropTransfare.csproj.CopyComplete
+C:\Users\Vlad Gryaznov\Documents\ClientCode\DragDropTransfare\DragDropTransfare\obj\Debug\DragDropTransfare.exe
+C:\Users\Vlad Gryaznov\Documents\ClientCode\DragDropTransfare\DragDropTransfare\obj\Debug\DragDropTransfare.pdb

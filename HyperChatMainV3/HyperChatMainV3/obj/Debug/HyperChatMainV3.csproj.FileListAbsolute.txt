@@ -20,3 +20,25 @@ C:\Users\nirle\source\repos\HyperChatMainV3\HyperChatMainV3\obj\Debug\HyperChatM
 C:\Users\nirle\source\repos\HyperChatMainV3\HyperChatMainV3\obj\Debug\HyperChatMainV3.FirstInHyperChat.resources
 C:\Users\nirle\source\repos\HyperChatMainV3\HyperChatMainV3\obj\Debug\HyperChatMainV3.SignUpControl.resources
 C:\Users\nirle\source\repos\HyperChatMainV3\HyperChatMainV3\obj\Debug\HyperChatMainV3.csprojAssemblyReference.cache
+C:\Users\Vlad Gryaznov\Documents\ClientCode\HyperChatMainV3\HyperChatMainV3\bin\Debug\HyperChatMainV3.exe.config
+C:\Users\Vlad Gryaznov\Documents\ClientCode\HyperChatMainV3\HyperChatMainV3\bin\Debug\HyperChatMainV3.exe
+C:\Users\Vlad Gryaznov\Documents\ClientCode\HyperChatMainV3\HyperChatMainV3\bin\Debug\HyperChatMainV3.pdb
+C:\Users\Vlad Gryaznov\Documents\ClientCode\HyperChatMainV3\HyperChatMainV3\bin\Debug\DotNetZip.dll
+C:\Users\Vlad Gryaznov\Documents\ClientCode\HyperChatMainV3\HyperChatMainV3\bin\Debug\DotNetZip.pdb
+C:\Users\Vlad Gryaznov\Documents\ClientCode\HyperChatMainV3\HyperChatMainV3\bin\Debug\DotNetZip.xml
+C:\Users\Vlad Gryaznov\Documents\ClientCode\HyperChatMainV3\HyperChatMainV3\obj\Debug\HyperChatMainV3.csprojAssemblyReference.cache
+C:\Users\Vlad Gryaznov\Documents\ClientCode\HyperChatMainV3\HyperChatMainV3\obj\Debug\HyperChatMainV3.AboutUs.resources
+C:\Users\Vlad Gryaznov\Documents\ClientCode\HyperChatMainV3\HyperChatMainV3\obj\Debug\HyperChatMainV3.FileTransferControl.resources
+C:\Users\Vlad Gryaznov\Documents\ClientCode\HyperChatMainV3\HyperChatMainV3\obj\Debug\HyperChatMainV3.FirstInHyperChat.resources
+C:\Users\Vlad Gryaznov\Documents\ClientCode\HyperChatMainV3\HyperChatMainV3\obj\Debug\HyperChatMainV3.Form1.resources
+C:\Users\Vlad Gryaznov\Documents\ClientCode\HyperChatMainV3\HyperChatMainV3\obj\Debug\HyperChatMainV3.FriendsControl.resources
+C:\Users\Vlad Gryaznov\Documents\ClientCode\HyperChatMainV3\HyperChatMainV3\obj\Debug\HyperChatMainV3.HomeControl.resources
+C:\Users\Vlad Gryaznov\Documents\ClientCode\HyperChatMainV3\HyperChatMainV3\obj\Debug\HyperChatMainV3.MessagesControl.resources
+C:\Users\Vlad Gryaznov\Documents\ClientCode\HyperChatMainV3\HyperChatMainV3\obj\Debug\HyperChatMainV3.Properties.Resources.resources
+C:\Users\Vlad Gryaznov\Documents\ClientCode\HyperChatMainV3\HyperChatMainV3\obj\Debug\HyperChatMainV3.SettingsControl.resources
+C:\Users\Vlad Gryaznov\Documents\ClientCode\HyperChatMainV3\HyperChatMainV3\obj\Debug\HyperChatMainV3.SignUpControl.resources
+C:\Users\Vlad Gryaznov\Documents\ClientCode\HyperChatMainV3\HyperChatMainV3\obj\Debug\HyperChatMainV3.csproj.GenerateResource.cache
+C:\Users\Vlad Gryaznov\Documents\ClientCode\HyperChatMainV3\HyperChatMainV3\obj\Debug\HyperChatMainV3.csproj.CoreCompileInputs.cache
+C:\Users\Vlad Gryaznov\Documents\ClientCode\HyperChatMainV3\HyperChatMainV3\obj\Debug\HyperChatMainV3.csproj.CopyComplete
+C:\Users\Vlad Gryaznov\Documents\ClientCode\HyperChatMainV3\HyperChatMainV3\obj\Debug\HyperChatMainV3.exe
+C:\Users\Vlad Gryaznov\Documents\ClientCode\HyperChatMainV3\HyperChatMainV3\obj\Debug\HyperChatMainV3.pdb

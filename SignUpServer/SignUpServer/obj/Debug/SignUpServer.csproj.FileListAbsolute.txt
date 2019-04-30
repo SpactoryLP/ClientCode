@@ -5,3 +5,10 @@ C:\Users\nirle\source\repos\SignUpServer\SignUpServer\obj\Debug\SignUpServer.csp
 C:\Users\nirle\source\repos\SignUpServer\SignUpServer\obj\Debug\SignUpServer.csproj.CoreCompileInputs.cache
 C:\Users\nirle\source\repos\SignUpServer\SignUpServer\obj\Debug\SignUpServer.exe
 C:\Users\nirle\source\repos\SignUpServer\SignUpServer\obj\Debug\SignUpServer.pdb
+C:\Users\Vlad Gryaznov\Documents\ClientCode\SignUpServer\SignUpServer\bin\Debug\SignUpServer.exe.config
+C:\Users\Vlad Gryaznov\Documents\ClientCode\SignUpServer\SignUpServer\bin\Debug\SignUpServer.exe
+C:\Users\Vlad Gryaznov\Documents\ClientCode\SignUpServer\SignUpServer\bin\Debug\SignUpServer.pdb
+C:\Users\Vlad Gryaznov\Documents\ClientCode\SignUpServer\SignUpServer\obj\Debug\SignUpServer.csprojAssemblyReference.cache
+C:\Users\Vlad Gryaznov\Documents\ClientCode\SignUpServer\SignUpServer\obj\Debug\SignUpServer.csproj.CoreCompileInputs.cache
+C:\Users\Vlad Gryaznov\Documents\ClientCode\SignUpServer\SignUpServer\obj\Debug\SignUpServer.exe
+C:\Users\Vlad Gryaznov\Documents\ClientCode\SignUpServer\SignUpServer\obj\Debug\SignUpServer.pdb
